@@ -4,3 +4,4 @@ ll_env/
 db.sqlite3
 venv/
 *.sqlite3
+dsd_logs/
