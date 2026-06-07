@@ -1,0 +1,14 @@
+asgiref==3.11.1
+certifi==2026.5.20
+charset-normalizer==3.4.7
+Django==6.0.5
+django-bootstrap5==26.2
+django-simple-deploy==1.4.1
+dsd-scalingo==0.2.3
+idna==3.18
+pluggy==1.6.0
+requests==2.34.2
+sqlparse==0.5.5
+toml==0.10.2
+tzdata==2026.2
+urllib3==2.7.0
